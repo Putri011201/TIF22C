@@ -1,0 +1,31 @@
+<html style="background-color: hsl(71, 100%, 25%);"></html>
+    <head>
+        <title>Daftar Mahasiswa <br> Terbaik </title>
+          <style>
+            h1 {
+                color :rgb(228, 240, 230) ;
+            }
+    </style>
+    <link rel="stylesheet"href="stylesheet.css">
+
+    </head>
+
+    <body>
+    <h1>Daftar Mahasiswa Tebaik</h1>
+        <ol>
+            <li>PUTRI</li>
+            <li>MIRANTI</li>
+            <li>PUTRI MIRANTI</li>
+
+        </ol>
+        <hr>
+        <h4>MENU FAVORIT: </h4>
+        <ul>
+            <li>cilok</li>
+            <li>seblak</li>
+            <li>siomay</li>
+            <li>bakso mercon</li>
+            <li>telur gulung</li>
+        </ul>
+    </body>
+        </html>
